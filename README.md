@@ -1,4 +1,4 @@
-This a fork of the McOS-transparent theme from paullinuxthemer, which can be found [here](https://github.com/MRSS02/McOS--paullinuxthemer-MRSS/tree/master/Mc-OS-Transparent-1.3/gtk-3.0).
+**This a fork of the McOS-transparent theme from paullinuxthemer, which can be found [here](https://github.com/MRSS02/McOS--paullinuxthemer-MRSS/tree/master/Mc-OS-Transparent-1.3/gtk-3.0).**
 
 
 This is a gnome-theme that contains a modified GTKRC and GTK.CSS.  As such it licence is GPLv2, of which the downloaded file contains a copy.
